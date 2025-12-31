@@ -6,7 +6,7 @@ import './App.css'
 
 function App() {
   return (
-    <Router>
+    <Router basename="/random-pick-arena-official-web">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/terms-of-use" element={<TermsOfUse />} />
