@@ -1,7 +1,7 @@
 function TermsOfUse() {
   return (
     <div style={{ padding: '2rem', maxWidth: '800px', margin: '0 auto', lineHeight: '1.8' }}>
-      <h1 style={{ marginBottom: '2rem', fontSize: '2rem', fontWeight: 'bold' }}>이용 약관</h1>
+      <h1 style={{ marginBottom: '2rem', fontSize: '2rem', fontWeight: 'bold' }}>서비스 이용 약관</h1>
       
       <section style={{ marginBottom: '2rem' }}>
         <h2 style={{ fontSize: '1.5rem', fontWeight: 'bold', marginBottom: '1rem', marginTop: '2rem' }}>제1조(목적)</h2>
