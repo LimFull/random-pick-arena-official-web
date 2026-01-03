@@ -176,7 +176,7 @@ function PrivacyPolicy() {
         </p>
         <div style={{ backgroundColor: '#f5f5f5', padding: '1rem', borderRadius: '8px', marginBottom: '1rem', color: '#333' }}>
           <p style={{ margin: '0.25rem 0' }}><strong>개인정보 보호책임자</strong></p>
-          <p style={{ margin: '0.25rem 0' }}>이메일: kkujun.dev@gmail.com</p>
+          <p style={{ margin: '0.25rem 0' }}>이메일: kkujuns@gmail.com</p>
         </div>
         <p style={{ marginBottom: '1rem' }}>
           정보주체께서는 회사의 서비스를 이용하시면서 발생한 모든 개인정보 보호 관련 문의, 불만 처리, 피해 구제 등에 관한 사항을
