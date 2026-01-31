@@ -1,0 +1,347 @@
+{
+  "home": {
+    "title": "Random Pick Arena",
+    "tagline": "\"Who will be the winner?\"",
+    "description": "When you need to decide,\nleave it to Random Pick Arena instead of worrying.",
+    "appStore": "App Store",
+    "googlePlay": "Google Play",
+    "mainScreenAlt": "Random Pick Arena main screen",
+    "about": {
+      "title": "What is Random Pick Arena?",
+      "text1": "Just enter participant information,\nthe results are automatically determined,\nand you can enjoy watching the process together.",
+      "text2": "Users don't interfere with the results,\njust watch the progress,\nand check only the final result."
+    },
+    "features": {
+      "title": "Various Contents",
+      "roulette": {
+        "title": "Roulette",
+        "desc": "Let the roulette choose for you",
+        "alt": "Roulette screen"
+      },
+      "horseRace": {
+        "title": "Horse Race",
+        "desc": "Who will arrive first?\nAn automatic random race",
+        "alt": "Horse race screen"
+      },
+      "soccer": {
+        "title": "Soccer",
+        "desc": "Random teams, automatic results\nThe game plays itself",
+        "alt": "Soccer screen"
+      },
+      "comingSoon": "More content coming soon!"
+    },
+    "useCases": {
+      "title": "Try it in these situations",
+      "case1": "When deciding order or roles at gatherings",
+      "case2": "When you want to fairly divide teams randomly",
+      "case3": "When you need a fun, casual decision",
+      "case4": "When you need content to watch results together"
+    },
+    "highlights": {
+      "title": "Features of Random Pick Arena",
+      "item1": "Automatic progression without user manipulation",
+      "item2": "Visual presentation to see results at a glance",
+      "item3": "Easy to use - just enter names and start",
+      "item4": "Some content available after watching ads",
+      "item5": "Ad-free experience available with purchase"
+    },
+    "footer": {
+      "termsOfUse": "Terms of Use",
+      "privacyPolicy": "Privacy Policy",
+      "contact": "Contact",
+      "copyright": "© 2025 Random Pick Arena. All rights reserved."
+    }
+  },
+  "termsOfUse": {
+    "title": "Terms of Service",
+    "article1": {
+      "title": "Article 1 (Purpose)",
+      "content": "These terms and conditions aim to regulate the rights, obligations, and responsibilities between the cyber mall and users in using internet-related services (hereinafter referred to as \"services\") provided by OO Company (e-commerce business operator) through OO Cyber Mall (hereinafter referred to as \"Mall\").",
+      "note": "※ These terms and conditions shall apply mutatis mutandis to e-commerce using PC communications, wireless, etc., unless contrary to their nature."
+    },
+    "article2": {
+      "title": "Article 2 (Definitions)",
+      "item1": "\"Mall\" refers to a virtual business place established by OO Company using computers and other information and communication facilities to enable users to trade goods or services (hereinafter referred to as \"goods, etc.\"), and is also used to mean the business operator operating the cyber mall.",
+      "item2": "\"User\" refers to members and non-members who access the \"Mall\" and receive services provided by the \"Mall\" in accordance with these terms and conditions.",
+      "item3": "\"Member\" refers to a person who has registered as a member of the \"Mall\" and can continuously use the services provided by the \"Mall\".",
+      "item4": "\"Non-member\" refers to a person who uses the services provided by the \"Mall\" without registering as a member."
+    },
+    "article3": {
+      "title": "Article 3 (Statement, Explanation, and Amendment of Terms)",
+      "item1": "The \"Mall\" shall post the contents of these terms and conditions, company name, representative's name, business address (including address for handling consumer complaints), telephone number, fax number, email address, business registration number, mail-order business registration number, and personal information manager on the initial service screen of the cyber mall so that users can easily understand them. However, the contents of the terms may be made available through a linked screen.",
+      "item2": "The \"Mall\" must obtain confirmation from users by providing a separate linked screen or pop-up screen regarding important contents such as withdrawal of subscription, delivery responsibility, and refund conditions before users agree to the terms.",
+      "item3": "The \"Mall\" may amend these terms within the scope that does not violate relevant laws such as the Act on Consumer Protection in Electronic Commerce, Act on Regulation of Terms and Conditions, Framework Act on Electronic Documents and Electronic Commerce, Electronic Financial Transactions Act, Digital Signature Act, Act on Promotion of Information and Communications Network Utilization and Information Protection, Door-to-Door Sales Act, and Framework Act on Consumers.",
+      "item4": "When the \"Mall\" revises the terms, it shall specify the effective date and reason for revision and post them together with the current terms on the initial screen of the mall from 7 days before the effective date until the day before. However, if the terms are changed unfavorably to users, a prior grace period of at least 30 days shall be given. In this case, the \"Mall\" shall clearly compare and display the contents before and after the revision for users to easily understand.",
+      "item5": "When the \"Mall\" revises the terms, the revised terms shall apply only to contracts concluded after the effective date, and the terms before revision shall apply to contracts already concluded. However, if a user who has already concluded a contract wishes to apply the revised terms and sends such intention to the \"Mall\" within the notice period of the revised terms under Paragraph 3 and receives the \"Mall's\" consent, the revised terms shall apply.",
+      "item6": "Matters not specified in these terms and the interpretation of these terms shall follow the Act on Consumer Protection in Electronic Commerce, Act on Regulation of Terms and Conditions, Consumer Protection Guidelines for Electronic Commerce established by the Fair Trade Commission, and related laws or commercial practices."
+    },
+    "article4": {
+      "title": "Article 4 (Provision and Change of Services)",
+      "item1": "The \"Mall\" performs the following tasks:",
+      "item1Sub1": "Providing information on goods or services and concluding purchase contracts",
+      "item1Sub2": "Delivering goods or services for which purchase contracts have been concluded",
+      "item1Sub3": "Other tasks determined by the \"Mall\"",
+      "item2": "The \"Mall\" may change the contents of goods or services to be provided under future contracts in case of shortage of goods or services or changes in technical specifications. In this case, the changed contents and provision date shall be specified and posted immediately where the current contents are posted.",
+      "item3": "If the \"Mall\" changes the contents of services contracted with users due to reasons such as shortage of goods or technical changes, the reason shall be immediately notified to an address that can be contacted by users.",
+      "item4": "In the case of the preceding paragraph, the \"Mall\" shall compensate for damages suffered by users. However, this shall not apply if the \"Mall\" proves that there was no intention or negligence."
+    },
+    "article5": {
+      "title": "Article 5 (Suspension of Services)",
+      "item1": "The \"Mall\" may temporarily suspend the provision of services in case of maintenance, replacement, or failure of information and communication facilities such as computers, or disruption of communications.",
+      "item2": "The \"Mall\" shall compensate for damages suffered by users or third parties due to temporary suspension of service provision for reasons in Paragraph 1. However, this shall not apply if the \"Mall\" proves that there was no intention or negligence.",
+      "item3": "If services cannot be provided due to reasons such as conversion of business type, abandonment of business, or integration between companies, the \"Mall\" shall notify users in the manner prescribed in Article 8 and compensate consumers according to the conditions originally presented by the \"Mall\". However, if the \"Mall\" does not announce compensation standards, users' mileage or points shall be paid to users in kind or cash equivalent to the currency value used in the \"Mall\"."
+    },
+    "article6": {
+      "title": "Article 6 (Membership Registration)",
+      "item1": "Users apply for membership by filling in member information according to the registration form set by the \"Mall\" and expressing their intention to agree to these terms.",
+      "item2": "The \"Mall\" registers users who have applied for membership as in Paragraph 1 as members unless they fall under any of the following:",
+      "item2Sub1": "If the applicant has previously lost membership qualification under Article 7, Paragraph 3 of these terms. However, an exception shall be made for those who have obtained the \"Mall's\" approval for re-registration after 3 years have passed since losing membership qualification under Article 7, Paragraph 3.",
+      "item2Sub2": "If there are false information, omissions, or errors in the registration contents",
+      "item2Sub3": "If it is judged that registering as a member significantly impairs the \"Mall's\" technical capabilities",
+      "item3": "The membership contract is established when the \"Mall's\" acceptance reaches the member.",
+      "item4": "If there are changes to the information registered at the time of membership registration, the member must notify the \"Mall\" of such changes through member information modification within a reasonable period."
+    },
+    "article7": {
+      "title": "Article 7 (Member Withdrawal and Loss of Qualification)",
+      "item1": "Members may request withdrawal from the \"Mall\" at any time, and the \"Mall\" shall process membership withdrawal immediately.",
+      "item2": "If a member falls under any of the following reasons, the \"Mall\" may restrict or suspend membership:",
+      "item2Sub1": "If false information was registered at the time of application",
+      "item2Sub2": "If the member fails to pay debts borne in relation to the purchase of goods using the \"Mall\" or other use of the \"Mall\" by the due date",
+      "item2Sub3": "If the member interferes with others' use of the \"Mall\" or steals their information, threatening the order of e-commerce",
+      "item2Sub4": "If the member uses the \"Mall\" to engage in acts prohibited by law or these terms or against public order and morals",
+      "item3": "After the \"Mall\" restricts or suspends membership, if the same act is repeated more than twice or the reason is not corrected within 30 days, the \"Mall\" may terminate the membership.",
+      "item4": "If the \"Mall\" terminates membership, member registration shall be canceled. In this case, the member shall be notified, and a period of at least 30 days shall be given before cancellation of member registration to provide an opportunity to explain."
+    },
+    "article8": {
+      "title": "Article 8 (Notification to Members)",
+      "item1": "When the \"Mall\" notifies members, it may do so to the email address designated in advance by agreement between the member and the \"Mall\".",
+      "item2": "For notification to an unspecified number of members, the \"Mall\" may substitute individual notification by posting on the \"Mall\" bulletin board for more than one week. However, individual notification shall be given for matters that significantly affect the member's own transactions."
+    },
+    "article9": {
+      "title": "Article 9 (Purchase Application and Consent to Provide Personal Information)",
+      "item1": "Users of the \"Mall\" apply for purchases through the following or similar methods, and the \"Mall\" must provide the following information in an easily understandable manner when users apply for purchases:",
+      "item1Sub1": "Search and selection of goods, etc.",
+      "item1Sub2": "Entry of recipient's name, address, phone number, email address (or mobile phone number), etc.",
+      "item1Sub3": "Confirmation of contents related to terms and conditions, services with limited withdrawal rights, and cost burdens such as shipping and installation fees",
+      "item1Sub4": "Indication of agreement to these terms and confirmation or refusal of matters in 3 above (e.g., mouse click)",
+      "item1Sub5": "Purchase application for goods, etc. and confirmation or consent to \"Mall's\" confirmation",
+      "item1Sub6": "Selection of payment method",
+      "item2": "If the \"Mall\" needs to provide buyer's personal information to a third party, it must inform the buyer and obtain consent for: 1) the recipient of personal information, 2) the purpose of using personal information by the recipient, 3) the items of personal information provided, 4) the period of retention and use of personal information by the recipient. (The same applies when agreed matters change.)",
+      "item3": "If the \"Mall\" entrusts a third party to handle buyer's personal information, it must inform the buyer and obtain consent for: 1) the trustee of personal information handling, 2) the contents of the entrusted work. (The same applies when agreed matters change.) However, if necessary for the performance of contracts related to service provision and related to improving buyer convenience, notification and consent procedures may be omitted by informing through the personal information handling policy in the manner prescribed by the Act on Promotion of Information and Communications Network Utilization and Information Protection."
+    },
+    "article10": {
+      "title": "Article 10 (Formation of Contract)",
+      "item1": "The \"Mall\" may not accept purchase applications under Article 9 if they fall under any of the following. However, when concluding a contract with a minor, the minor or legal representative must be informed that the contract can be canceled if the legal representative's consent is not obtained:",
+      "item1Sub1": "If there are false information, omissions, or errors in the application",
+      "item1Sub2": "If a minor purchases goods and services prohibited by the Juvenile Protection Act such as tobacco and alcohol",
+      "item1Sub3": "If it is judged that accepting the purchase application significantly impairs the \"Mall's\" technical capabilities",
+      "item2": "The contract is deemed to be formed when the \"Mall's\" acceptance reaches the user in the form of receipt confirmation notice under Article 12, Paragraph 1.",
+      "item3": "The \"Mall's\" expression of acceptance must include information on confirmation of the user's purchase application, availability for sale, and correction or cancellation of purchase application."
+    },
+    "article11": {
+      "title": "Article 11 (Payment Methods)",
+      "content": "Payment for goods or services purchased from the \"Mall\" may be made by any of the following available methods. However, the \"Mall\" may not collect any additional fees for the payment method for the price of goods, etc.:",
+      "item1": "Various account transfers such as phone banking, internet banking, and mail banking",
+      "item2": "Various card payments such as prepaid cards, debit cards, and credit cards",
+      "item3": "Online bank transfer without passbook",
+      "item4": "Payment by electronic money",
+      "item5": "Payment upon receipt",
+      "item6": "Payment by points such as mileage issued by the \"Mall\"",
+      "item7": "Payment by gift certificates contracted with or recognized by the \"Mall\"",
+      "item8": "Payment by other electronic payment methods"
+    },
+    "article12": {
+      "title": "Article 12 (Receipt Confirmation Notice, Change and Cancellation of Purchase Application)",
+      "item1": "The \"Mall\" sends a receipt confirmation notice to users when there is a purchase application.",
+      "item2": "Users who receive the receipt confirmation notice may request changes or cancellation of the purchase application immediately after receiving the notice if there is a discrepancy in intention, and the \"Mall\" must process such requests without delay if made before shipping. However, if payment has already been made, it shall follow the provisions on withdrawal of subscription in Article 15."
+    },
+    "article13": {
+      "title": "Article 13 (Supply of Goods, etc.)",
+      "item1": "Unless there is a separate agreement with users regarding the supply timing of goods, etc., the \"Mall\" shall take necessary measures such as custom manufacturing and packaging to ship goods within 7 days from the date of subscription. However, if the \"Mall\" has already received all or part of the payment for goods, etc., measures shall be taken within 3 business days from the date of receiving all or part of the payment. At this time, the \"Mall\" shall take appropriate measures so that users can check the supply procedures and progress of goods, etc.",
+      "item2": "The \"Mall\" shall specify the delivery method, delivery cost bearer by method, and delivery period by method for goods purchased by users. If the \"Mall\" exceeds the agreed delivery period, it shall compensate for damages suffered by users. However, this shall not apply if the \"Mall\" proves that there was no intention or negligence."
+    },
+    "article14": {
+      "title": "Article 14 (Refund)",
+      "content": "When goods, etc. applied for purchase by users cannot be delivered or provided due to reasons such as being out of stock, the \"Mall\" shall notify users of the reason without delay and refund the payment within 3 business days from the date of receiving payment if payment was received in advance, or take measures necessary for refund."
+    },
+    "article15": {
+      "title": "Article 15 (Withdrawal of Subscription, etc.)",
+      "item1": "Users who have concluded a contract for the purchase of goods, etc. with the \"Mall\" may withdraw the subscription within 7 days from the date of receiving the written contract contents under Article 13, Paragraph 2 of the Act on Consumer Protection in Electronic Commerce (or from the date of receiving or starting to receive goods, etc. if the supply of goods, etc. is later than when the written notice was received). However, if there are different provisions on withdrawal of subscription in the Act on Consumer Protection in Electronic Commerce, the provisions of that Act shall apply.",
+      "item2": "Users cannot return or exchange goods, etc. in the following cases after receiving delivery:",
+      "item2Sub1": "If goods, etc. are lost or damaged due to reasons attributable to the user (however, withdrawal of subscription is possible if the packaging was damaged to check the contents)",
+      "item2Sub2": "If the value of goods, etc. has significantly decreased due to user's use or partial consumption",
+      "item2Sub3": "If the value of goods, etc. has significantly decreased to the extent that resale is difficult due to the passage of time",
+      "item2Sub4": "If the packaging of original goods that can be duplicated with goods of the same performance was damaged",
+      "item3": "In cases of Paragraph 2, Items 2 through 4, if the \"Mall\" did not clearly state in an easily visible place that withdrawal of subscription is restricted or did not provide trial products, the user's withdrawal of subscription shall not be restricted.",
+      "item4": "Notwithstanding the provisions of Paragraphs 1 and 2, if the contents of goods, etc. differ from the display or advertisement or were performed differently from the contract contents, users may withdraw the subscription within 3 months from the date of receiving the goods, etc., and within 30 days from the date they knew or could have known of such fact."
+    },
+    "article16": {
+      "title": "Article 16 (Effects of Withdrawal of Subscription, etc.)",
+      "item1": "When the \"Mall\" receives goods, etc. back from users, it shall refund the payment received within 3 business days. In this case, if the \"Mall\" delays the refund to users, it shall pay delay interest calculated by multiplying the delay period by the delay interest rate specified in Article 21-2 of the Enforcement Decree of the Act on Consumer Protection in Electronic Commerce.",
+      "item2": "When refunding the above payment, if users paid for goods, etc. by credit card or electronic money, the \"Mall\" shall request the business operator that provided the payment method to suspend or cancel the billing for goods, etc. without delay.",
+      "item3": "In case of withdrawal of subscription, the cost of returning goods, etc. supplied shall be borne by users. The \"Mall\" shall not claim penalty or damages from users for withdrawal of subscription. However, if goods, etc. differ from the display or advertisement or were performed differently from the contract contents, the cost of returning goods, etc. shall be borne by the \"Mall\".",
+      "item4": "If users bore shipping costs when receiving goods, etc., the \"Mall\" shall clearly indicate who bears such costs upon withdrawal of subscription in an easily understandable manner."
+    },
+    "article17": {
+      "title": "Article 17 (Personal Information Protection)",
+      "item1": "The \"Mall\" collects only the minimum personal information necessary for providing services when collecting users' personal information.",
+      "item2": "The \"Mall\" does not collect information necessary for the performance of purchase contracts in advance at the time of membership registration. However, this shall not apply when minimum specific personal information is collected when identity verification is required before purchase contracts for compliance with related laws.",
+      "item3": "When the \"Mall\" collects and uses users' personal information, it shall inform users of the purpose and obtain consent.",
+      "item4": "The \"Mall\" cannot use collected personal information for purposes other than the purpose, and when a new purpose of use arises or when providing to a third party, it shall inform users of such purpose at the stage of use and provision and obtain consent. However, exceptions shall be made if otherwise provided by related laws.",
+      "item5": "When the \"Mall\" needs to obtain users' consent under Paragraphs 2 and 3, it must specify or notify in advance the identity of the personal information manager (affiliation, name, phone number, and other contact information), purpose of collection and use of information, matters related to provision of information to third parties (recipient, purpose of provision, and contents of information to be provided), etc. as stipulated in Article 22, Paragraph 2 of the Act on Promotion of Information and Communications Network Utilization and Information Protection, and users may withdraw this consent at any time.",
+      "item6": "Users may request access to and correction of errors in their personal information held by the \"Mall\" at any time, and the \"Mall\" is obligated to take necessary measures without delay. If a user requests correction of errors, the \"Mall\" shall not use such personal information until the errors are corrected.",
+      "item7": "The \"Mall\" must limit the number of persons handling users' personal information to a minimum for the protection of personal information and shall be fully responsible for damages to users caused by loss, theft, leakage, unauthorized provision to third parties, or alteration of users' personal information including credit cards and bank accounts.",
+      "item8": "The \"Mall\" or third parties who received personal information from it shall destroy such personal information without delay when the purpose of collecting or receiving personal information has been achieved.",
+      "item9": "The \"Mall\" shall not set the consent box for collection, use, and provision of personal information as pre-selected. Also, it shall specifically state the services that are restricted when users refuse to consent to collection, use, and provision of personal information, and shall not restrict or refuse service provision such as membership registration on the grounds of refusal to consent to collection, use, and provision of personal information that is not a mandatory collection item."
+    },
+    "article18": {
+      "title": "Article 18 (Obligations of the \"Mall\")",
+      "item1": "The \"Mall\" shall not engage in acts prohibited by law and these terms or against public order and morals, and shall do its best to continuously and stably provide goods and services as prescribed by these terms.",
+      "item2": "The \"Mall\" must have a security system to protect users' personal information (including credit information) so that users can safely use internet services.",
+      "item3": "If the \"Mall\" causes damage to users by engaging in unfair display and advertisement acts under Article 3 of the Act on Fair Display and Advertisement for goods or services, it shall be liable for compensation.",
+      "item4": "The \"Mall\" shall not send commercial advertising emails that users do not want."
+    },
+    "article19": {
+      "title": "Article 19 (Obligations Regarding Members' ID and Password)",
+      "item1": "Except for the case of Article 17, the member is responsible for managing ID and password.",
+      "item2": "Members must not allow third parties to use their ID and password.",
+      "item3": "If a member recognizes that their ID and password have been stolen or are being used by a third party, they must immediately notify the \"Mall\" and follow the \"Mall's\" guidance if provided."
+    },
+    "article20": {
+      "title": "Article 20 (Obligations of Users)",
+      "content": "Users must not engage in the following acts:",
+      "item1": "Registering false information when applying or changing",
+      "item2": "Stealing others' information",
+      "item3": "Altering information posted on the \"Mall\"",
+      "item4": "Transmitting or posting information other than information designated by the \"Mall\" (such as computer programs)",
+      "item5": "Infringing intellectual property rights such as copyrights of the \"Mall\" or other third parties",
+      "item6": "Acts that damage the reputation of the \"Mall\" or other third parties or interfere with their business",
+      "item7": "Disclosing or posting obscene or violent messages, images, sounds, or other information against public order and morals on the Mall"
+    },
+    "article21": {
+      "title": "Article 21 (Relationship Between Linked \"Mall\" and Linked-to \"Mall\")",
+      "item1": "When the upper \"Mall\" and the lower \"Mall\" are linked by hyperlink (e.g., hyperlink targets include text, images, and moving images), the former is called the linked \"Mall\" (website) and the latter is called the linked-to \"Mall\" (website).",
+      "item2": "If the linked \"Mall\" has stated on its initial screen or pop-up screen at the time of linking that it is not responsible for guaranteeing transactions between users and goods, etc. independently provided by the linked-to \"Mall\", it shall not be responsible for guaranteeing such transactions."
+    },
+    "article22": {
+      "title": "Article 22 (Attribution of Copyright and Restrictions on Use)",
+      "item1": "Copyright and other intellectual property rights for works created by the \"Mall\" belong to the \"Mall\".",
+      "item2": "Users must not use information to which the \"Mall\" holds intellectual property rights obtained through using the \"Mall\" for commercial purposes or allow third parties to use it by reproduction, transmission, publication, distribution, broadcasting, or other methods without the prior consent of the \"Mall\".",
+      "item3": "The \"Mall\" must notify users when using copyrights belonging to users according to the agreement."
+    },
+    "article23": {
+      "title": "Article 23 (Dispute Resolution)",
+      "item1": "The \"Mall\" establishes and operates a damage compensation processing organization to reflect legitimate opinions or complaints raised by users and to process compensation for damages.",
+      "item2": "The \"Mall\" prioritizes processing complaints and opinions submitted by users. However, if prompt processing is difficult, users shall be immediately notified of the reason and processing schedule.",
+      "item3": "In case of a request for damage relief from users regarding e-commerce disputes between the \"Mall\" and users, it may follow mediation by a dispute mediation organization commissioned by the Fair Trade Commission or the mayor/provincial governor."
+    },
+    "article24": {
+      "title": "Article 24 (Jurisdiction and Governing Law)",
+      "item1": "Lawsuits regarding e-commerce disputes between the \"Mall\" and users shall be subject to the exclusive jurisdiction of the district court having jurisdiction over the user's address at the time of filing, or residence if there is no address. However, if the user's address or residence is unclear at the time of filing or if the user is a foreign resident, it shall be filed with the competent court under the Civil Procedure Act.",
+      "item2": "Korean law shall apply to e-commerce lawsuits filed between the \"Mall\" and users."
+    }
+  },
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "intro": "Random Pick Arena (hereinafter referred to as \"the Company\") complies with the Personal Information Protection Act and related laws to protect the freedom and rights of data subjects, and lawfully processes and safely manages personal information. In accordance with Article 30 of the Personal Information Protection Act, we establish and disclose the following privacy policy to guide data subjects on the procedures and standards for processing and protecting personal information, and to promptly and smoothly handle related grievances.",
+    "article1": {
+      "title": "Article 1 (Purpose of Processing Personal Information)",
+      "content": "The Company processes personal information for the following purposes. Personal information being processed will not be used for purposes other than the following, and if the purpose of use changes, necessary measures such as obtaining separate consent will be implemented in accordance with Article 18 of the Personal Information Protection Act.",
+      "item1Title": "App Service Provision",
+      "item1Content": "Personal information is processed for the purpose of providing random selection content (roulette, horse racing, soccer, etc.), improving app functions, and developing new services.",
+      "item2Title": "Service Improvement and Statistical Analysis",
+      "item2Content": "Personal information is processed for statistical analysis of service usage, service quality improvement, and ensuring app stability.",
+      "item3Title": "Customer Inquiry Response",
+      "item3Content": "Personal information is processed for receiving and handling user inquiries and complaints."
+    },
+    "article2": {
+      "title": "Article 2 (Items of Personal Information Processed)",
+      "content": "The Company processes the following personal information within the minimum scope necessary for service provision.",
+      "item1Title": "Automatically Collected Items",
+      "item1Content": "Device identifier (advertising ID), device information (model, OS version), app version, service usage records, access logs",
+      "item2Title": "Items Collected Upon Customer Inquiry",
+      "item2Content": "Email address, inquiry contents"
+    },
+    "article3": {
+      "title": "Article 3 (Processing and Retention Period of Personal Information)",
+      "content": "The Company processes and retains personal information within the personal information retention and use period according to laws or the personal information retention and use period agreed upon when collecting personal information from data subjects.",
+      "item1": "Service usage records: Until end of service use (upon app deletion)",
+      "item2": "Customer inquiry records: 3 years after inquiry processing completion (Act on Consumer Protection in Electronic Commerce)",
+      "item3": "Access logs: 3 months (Protection of Communications Secrets Act)"
+    },
+    "article4": {
+      "title": "Article 4 (Procedures and Methods for Destroying Personal Information)",
+      "content": "The Company destroys personal information without delay when it becomes unnecessary due to expiration of the retention period or achievement of processing purposes.",
+      "item1Title": "Destruction Procedure",
+      "item1Content": "Unnecessary personal information is destroyed within 5 days from the date when the processing of personal information is deemed unnecessary.",
+      "item2Title": "Destruction Method",
+      "item2Content": "Personal information recorded and stored in electronic file format is destroyed so that records cannot be reproduced, and personal information recorded and stored in paper documents is destroyed by shredding or incineration."
+    },
+    "article5": {
+      "title": "Article 5 (Provision of Personal Information to Third Parties)",
+      "content1": "The Company processes personal information of data subjects only within the scope specified in Article 1 (Purpose of Processing Personal Information) and provides personal information to third parties only in cases falling under Articles 17 and 18 of the Personal Information Protection Act, such as consent from data subjects or special provisions of law.",
+      "content2": "Currently, the Company does not provide personal information of data subjects to third parties."
+    },
+    "article6": {
+      "title": "Article 6 (Entrustment of Personal Information Processing)",
+      "content1": "The Company does not currently entrust personal information processing to outside parties.",
+      "content2": "If entrustment work occurs in the future, the entrusted company and the contents of the entrustment work will be disclosed in the privacy policy."
+    },
+    "article7": {
+      "title": "Article 7 (Measures to Ensure the Safety of Personal Information)",
+      "content": "The Company takes the following measures to ensure the safety of personal information.",
+      "item1Title": "Encryption of Personal Information",
+      "item1Content": "Users' personal information is encrypted and stored and managed.",
+      "item2Title": "Technical Measures Against Hacking",
+      "item2Content": "The Company installs security programs and performs regular updates and inspections to prevent leakage and damage of personal information due to hacking or computer viruses.",
+      "item3Title": "Access Restrictions to Personal Information",
+      "item3Content": "Necessary measures are taken to control access to personal information through granting, changing, and revoking access rights to systems that process personal information."
+    },
+    "article8": {
+      "title": "Article 8 (Installation, Operation, and Rejection of Automatic Personal Information Collection Devices)",
+      "content": "The following information may be automatically collected from users during service use.",
+      "item1": "Device identifier (advertising ID)",
+      "item2": "Device information (model, operating system version)",
+      "item3": "App usage log",
+      "optOut": "Users can reject or reset advertising ID collection in their device settings.",
+      "android": "Android: Settings > Google > Ads > Delete advertising ID",
+      "ios": "iOS: Settings > Privacy & Security > Tracking > Disable Allow Apps to Request to Track"
+    },
+    "article9": {
+      "title": "Article 9 (Rights and Obligations of Data Subjects and Legal Representatives and How to Exercise Them)",
+      "content": "Data subjects may exercise the following personal information protection rights against the Company at any time.",
+      "item1": "Request to view personal information",
+      "item2": "Request for correction in case of errors",
+      "item3": "Request for deletion",
+      "item4": "Request to stop processing",
+      "method": "The above rights may be exercised by email to the Company, and the Company will take action without delay.",
+      "correction": "If a data subject requests correction or deletion of errors in personal information, the Company will not use or provide such personal information until the correction or deletion is completed.",
+      "minor": "For children under 14, legal representatives may request viewing, correction/deletion, and suspension of processing of the child's personal information."
+    },
+    "article10": {
+      "title": "Article 10 (Personal Information Protection Officer)",
+      "content": "The Company has designated the following personal information protection officer to be responsible for overall personal information processing and to handle complaints and remedy damages of data subjects related to personal information processing.",
+      "officer": "Personal Information Protection Officer",
+      "email": "Email: kkujuns@gmail.com",
+      "contact": "Data subjects may contact the Personal Information Protection Officer regarding all personal information protection inquiries, complaint handling, and damage relief arising from using the Company's services. The Company will respond and process data subjects' inquiries without delay."
+    },
+    "article11": {
+      "title": "Article 11 (Remedies for Infringement of Data Subject Rights)",
+      "content": "Data subjects may apply for dispute resolution or consultation with the Personal Information Dispute Mediation Committee, Korea Internet & Security Agency Personal Information Infringement Report Center, etc. for relief from personal information infringement. For other reports and consultations on personal information infringement, please contact the following organizations.",
+      "agency1": "Personal Information Dispute Mediation Committee: (no area code) 1833-6972 (www.kopico.go.kr)",
+      "agency2": "Personal Information Infringement Report Center: (no area code) 118 (privacy.kisa.or.kr)",
+      "agency3": "Supreme Prosecutors' Office: (no area code) 1301 (www.spo.go.kr)",
+      "agency4": "National Police Agency: (no area code) 182 (ecrm.cyber.go.kr)",
+      "appeal": "A person whose rights or interests have been infringed by a disposition or omission made by the head of a public institution in response to requests under Articles 35 (Viewing of Personal Information), 36 (Correction and Deletion of Personal Information), and 37 (Suspension of Processing of Personal Information) of the Personal Information Protection Act may file an administrative appeal as prescribed by the Administrative Appeals Act."
+    },
+    "article12": {
+      "title": "Article 12 (Changes to the Privacy Policy)",
+      "content1": "This privacy policy is effective from the effective date, and if there are additions, deletions, or corrections of changes according to laws and policies, we will notify through in-app notices or the website from 7 days before the effective date of the changes.",
+      "content2": "However, in case of significant changes to the rights of data subjects, we will notify at least 30 days in advance."
+    },
+    "effectiveDate": {
+      "announcement": "Announcement Date: January 3, 2025",
+      "effective": "Effective Date: January 3, 2025"
+    }
+  }
+}

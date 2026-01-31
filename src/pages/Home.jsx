@@ -1,20 +1,24 @@
 import { Link } from 'react-router-dom'
+import { useTranslation } from 'react-i18next'
 
 const basePath = import.meta.env.BASE_URL
 
 function Home() {
+  const { t } = useTranslation()
+
   return (
     <div style={styles.container}>
       {/* Hero Section */}
       <section style={styles.hero}>
         <div style={styles.heroContent}>
           <h1 style={styles.heroTitle}>
-            <span style={styles.highlight}>랜덤픽 아레나</span>
+            <span style={styles.highlight}>{t('home.title')}</span>
           </h1>
-          <p style={styles.heroTagline}>"누가 당첨될까요?"</p>
+          <p style={styles.heroTagline}>{t('home.tagline')}</p>
           <p style={styles.heroDescription}>
-            결정해야 할 순간,<br />
-            고민 대신 랜덤픽 아레나에게 맡겨보세요.
+            {t('home.description').split('\n').map((line, i) => (
+              <span key={i}>{line}<br /></span>
+            ))}
           </p>
           <div style={styles.storeButtons}>
             <a
@@ -23,7 +27,7 @@ function Home() {
               rel="noopener noreferrer"
               style={styles.storeButton}
             >
-              App Store
+              {t('home.appStore')}
             </a>
             <a
               href="https://play.google.com/store/apps/details?id=com.kkujun.random_pick_arena"
@@ -31,14 +35,14 @@ function Home() {
               rel="noopener noreferrer"
               style={styles.storeButton}
             >
-              Google Play
+              {t('home.googlePlay')}
             </a>
           </div>
         </div>
         <div style={styles.heroImage}>
           <img
             src={`${basePath}1.png`}
-            alt="랜덤픽 아레나 메인 화면"
+            alt={t('home.mainScreenAlt')}
             style={styles.mainScreenshot}
           />
         </div>
@@ -46,102 +50,110 @@ function Home() {
 
       {/* About Section */}
       <section style={styles.section}>
-        <h2 style={styles.sectionTitle}>랜덤픽 아레나는 이런 앱이에요</h2>
+        <h2 style={styles.sectionTitle}>{t('home.about.title')}</h2>
         <div style={styles.aboutContent}>
           <p style={styles.aboutText}>
-            참가자 정보만 입력하면<br />
-            결과가 자동으로 정해지고,<br />
-            그 과정을 눈으로 보며 함께 즐길 수 있는 콘텐츠 앱이에요.
+            {t('home.about.text1').split('\n').map((line, i) => (
+              <span key={i}>{line}<br /></span>
+            ))}
           </p>
           <p style={styles.aboutText}>
-            사용자는 결과에 개입하지 않고<br />
-            진행 과정을 관전하며<br />
-            마지막 결과만 확인하면 돼요.
+            {t('home.about.text2').split('\n').map((line, i) => (
+              <span key={i}>{line}<br /></span>
+            ))}
           </p>
         </div>
       </section>
 
       {/* Features Section */}
       <section style={styles.section}>
-        <h2 style={styles.sectionTitle}>다양한 콘텐츠</h2>
+        <h2 style={styles.sectionTitle}>{t('home.features.title')}</h2>
         <div style={styles.featuresGrid}>
           <div style={styles.featureCard}>
             <img
               src={`${basePath}2.png`}
-              alt="룰렛 화면"
+              alt={t('home.features.roulette.alt')}
               style={styles.featureImage}
             />
-            <h3 style={styles.featureTitle}>룰렛</h3>
-            <p style={styles.featureDesc}>룰렛이 대신 골라줘요</p>
+            <h3 style={styles.featureTitle}>{t('home.features.roulette.title')}</h3>
+            <p style={styles.featureDesc}>{t('home.features.roulette.desc')}</p>
           </div>
           <div style={styles.featureCard}>
             <img
               src={`${basePath}3.png`}
-              alt="경마 화면"
+              alt={t('home.features.horseRace.alt')}
               style={styles.featureImage}
             />
-            <h3 style={styles.featureTitle}>경마</h3>
-            <p style={styles.featureDesc}>누가 먼저 도착할까?<br />자동으로 진행되는 랜덤 레이스</p>
+            <h3 style={styles.featureTitle}>{t('home.features.horseRace.title')}</h3>
+            <p style={styles.featureDesc}>
+              {t('home.features.horseRace.desc').split('\n').map((line, i) => (
+                <span key={i}>{line}<br /></span>
+              ))}
+            </p>
           </div>
           <div style={styles.featureCard}>
             <img
               src={`${basePath}4.png`}
-              alt="축구 화면"
+              alt={t('home.features.soccer.alt')}
               style={styles.featureImage}
             />
-            <h3 style={styles.featureTitle}>축구</h3>
-            <p style={styles.featureDesc}>팀은 랜덤, 결과는 자동<br />경기는 알아서 진행됩니다</p>
+            <h3 style={styles.featureTitle}>{t('home.features.soccer.title')}</h3>
+            <p style={styles.featureDesc}>
+              {t('home.features.soccer.desc').split('\n').map((line, i) => (
+                <span key={i}>{line}<br /></span>
+              ))}
+            </p>
           </div>
         </div>
-        <p style={styles.comingSoon}>더 많은 콘텐츠가 추가될 예정이에요!</p>
+        <p style={styles.comingSoon}>{t('home.features.comingSoon')}</p>
       </section>
 
       {/* Use Cases Section */}
       <section style={styles.section}>
-        <h2 style={styles.sectionTitle}>이런 상황에 사용해 보세요</h2>
+        <h2 style={styles.sectionTitle}>{t('home.useCases.title')}</h2>
         <div style={styles.useCaseGrid}>
           <div style={styles.useCaseCard}>
             <span style={styles.useCaseEmoji}>👥</span>
-            <p style={styles.useCaseText}>모임에서 순서나 역할을 정할 때</p>
+            <p style={styles.useCaseText}>{t('home.useCases.case1')}</p>
           </div>
           <div style={styles.useCaseCard}>
             <span style={styles.useCaseEmoji}>⚖️</span>
-            <p style={styles.useCaseText}>팀을 공정하게 랜덤으로 나누고 싶을 때</p>
+            <p style={styles.useCaseText}>{t('home.useCases.case2')}</p>
           </div>
           <div style={styles.useCaseCard}>
             <span style={styles.useCaseEmoji}>🎲</span>
-            <p style={styles.useCaseText}>가볍지만 재미있는 결정이 필요할 때</p>
+            <p style={styles.useCaseText}>{t('home.useCases.case3')}</p>
           </div>
           <div style={styles.useCaseCard}>
             <span style={styles.useCaseEmoji}>👀</span>
-            <p style={styles.useCaseText}>결과를 함께 지켜보는 콘텐츠가 필요할 때</p>
+            <p style={styles.useCaseText}>{t('home.useCases.case4')}</p>
           </div>
         </div>
       </section>
 
       {/* Highlights Section */}
       <section style={styles.section}>
-        <h2 style={styles.sectionTitle}>랜덤픽 아레나의 특징</h2>
+        <h2 style={styles.sectionTitle}>{t('home.highlights.title')}</h2>
         <div style={styles.highlightsList}>
           <div style={styles.highlightItem}>
             <span style={styles.checkIcon}>✓</span>
-            <span>사용자가 직접 조작하지 않는 자동 진행 방식</span>
+            <span>{t('home.highlights.item1')}</span>
           </div>
           <div style={styles.highlightItem}>
             <span style={styles.checkIcon}>✓</span>
-            <span>결과를 한눈에 볼 수 있는 시각적인 연출</span>
+            <span>{t('home.highlights.item2')}</span>
           </div>
           <div style={styles.highlightItem}>
             <span style={styles.checkIcon}>✓</span>
-            <span>이름만 입력하면 바로 시작하는 간편한 사용</span>
+            <span>{t('home.highlights.item3')}</span>
           </div>
           <div style={styles.highlightItem}>
             <span style={styles.checkIcon}>✓</span>
-            <span>일부 콘텐츠는 광고 시청 후 이용 가능</span>
+            <span>{t('home.highlights.item4')}</span>
           </div>
           <div style={styles.highlightItem}>
             <span style={styles.checkIcon}>✓</span>
-            <span>구매 시 광고 없이 이용 가능</span>
+            <span>{t('home.highlights.item5')}</span>
           </div>
         </div>
       </section>
@@ -149,14 +161,14 @@ function Home() {
       {/* Footer */}
       <footer style={styles.footer}>
         <div style={styles.footerLinks}>
-          <Link to="/terms-of-use" style={styles.footerLink}>서비스 이용약관</Link>
+          <Link to="/terms-of-use" style={styles.footerLink}>{t('home.footer.termsOfUse')}</Link>
           <span style={styles.footerDivider}>|</span>
-          <Link to="/privacy-policy" style={styles.footerLink}>개인정보처리방침</Link>
+          <Link to="/privacy-policy" style={styles.footerLink}>{t('home.footer.privacyPolicy')}</Link>
         </div>
         <div style={styles.footerContact}>
-          <p>문의: <a href="mailto:kkujuns@gmail.com" style={styles.emailLink}>kkujuns@gmail.com</a></p>
+          <p>{t('home.footer.contact')}: <a href="mailto:kkujuns@gmail.com" style={styles.emailLink}>kkujuns@gmail.com</a></p>
         </div>
-        <p style={styles.copyright}>© 2025 랜덤픽 아레나. All rights reserved.</p>
+        <p style={styles.copyright}>{t('home.footer.copyright')}</p>
       </footer>
     </div>
   )
