@@ -1,55 +1,91 @@
 {
   "home": {
     "title": "隨機選擇競技場",
-    "tagline": "\"誰會中獎呢？\"",
-    "description": "需要做決定的時刻，\n不用糾結，交給隨機選擇競技場吧。",
+    "tagline": "「誰會被選中?」",
+    "tagline2": "猶豫的時候,一鍵搞定。",
+    "description": "需要做決定時,\n交給隨機選擇競技場吧。",
+    "heroLine1": "今天的事,",
+    "heroLine2Accent": "隨機",
+    "heroLine2Suffix": "來決定",
     "appStore": "App Store",
     "googlePlay": "Google Play",
     "mainScreenAlt": "隨機選擇競技場主畫面",
+    "eyebrow": {
+      "available": "iOS · Android 現已上架",
+      "free": "免費"
+    },
     "about": {
-      "title": "隨機選擇競技場是這樣的應用程式",
-      "text1": "只需輸入參與者資訊，\n結果就會自動確定，\n可以一起觀看過程並享受樂趣的內容應用程式。",
-      "text2": "使用者不參與結果，\n只需觀看進行過程，\n確認最終結果即可。"
+      "title": "關於隨機選擇競技場",
+      "text1": "只需輸入參與者,結果就會自動揭曉——你只需觀看過程,共享樂趣。",
+      "text2": "使用者不介入結果,只觀看進行過程,最後確認結果即可。"
     },
     "features": {
-      "title": "多樣化內容",
+      "title": "多樣內容",
+      "heading": "把決定變成內容",
+      "home": {
+        "title": "一鍵搞定",
+        "desc": "今天誰請咖啡?午餐吃什麼?在主畫面直接決定。",
+        "tag1": "咖啡賭局",
+        "tag2": "午餐菜單",
+        "tag3": "懲罰遊戲",
+        "tag4": "團隊賭注",
+        "alt": "主畫面"
+      },
       "roulette": {
         "title": "輪盤",
-        "desc": "讓輪盤替你選擇",
+        "desc": "讓輪盤替你選",
         "alt": "輪盤畫面"
       },
       "horseRace": {
         "title": "賽馬",
-        "desc": "誰會先到達？\n自動進行的隨機比賽",
+        "desc": "誰會先抵達終點?自動進行的緊張賽事。",
         "alt": "賽馬畫面"
+      },
+      "racing": {
+        "title": "賽車",
+        "desc": "直線賽道的速度對決,一起觀看更有趣。",
+        "alt": "賽車畫面"
       },
       "soccer": {
         "title": "足球",
-        "desc": "隊伍隨機，結果自動\n比賽自動進行",
+        "desc": "隊伍隨機、結果自動,比賽自己進行。",
         "alt": "足球畫面"
       },
-      "comingSoon": "更多內容即將推出！"
+      "comingSoon": "輪盤 · 轉盤 · 多人玩法即將上線"
     },
     "useCases": {
-      "title": "在這些場景中使用吧",
-      "case1": "在聚會中決定順序或角色時",
-      "case2": "想要公平隨機分組時",
-      "case3": "需要輕鬆有趣的決定時",
-      "case4": "需要一起觀看結果的內容時"
+      "title": "試試這些場景",
+      "heading": "在這些時刻派上用場",
+      "label1": "聚會",
+      "label2": "分組",
+      "label3": "日常",
+      "label4": "觀看",
+      "case1": "聚會時決定順序或角色",
+      "case2": "想公平地隨機分組",
+      "case3": "需要一個輕鬆有趣的決定",
+      "case4": "想要一起觀看結果的內容"
     },
     "highlights": {
-      "title": "隨機選擇競技場的特點",
-      "item1": "使用者不直接操作的自動進行方式",
-      "item2": "一目了然的視覺化呈現",
-      "item3": "只需輸入名字即可開始的簡單操作",
+      "title": "應用特色",
+      "heading": "為什麼選它",
+      "item1": "無需操作,自動進行",
+      "item2": "結果一目了然的視覺演出",
+      "item3": "輸入名字即可立即開始",
       "item4": "部分內容觀看廣告後可用",
-      "item5": "購買後可無廣告使用"
+      "item5": "購買可去除廣告"
+    },
+    "cta": {
+      "line1": "今天的決定,",
+      "line1Accent": "隨機",
+      "line1Suffix": "替你做",
+      "sub": "iOS · Android 免費下載"
     },
     "footer": {
       "termsOfUse": "服務條款",
-      "privacyPolicy": "隱私權政策",
-      "contact": "聯絡我們",
-      "copyright": "© 2025 隨機選擇競技場. 保留所有權利。"
+      "privacyPolicy": "隱私政策",
+      "contact": "聯絡",
+      "tag": "把決定變成內容的應用。",
+      "copyright": "© 2025 隨機選擇競技場. All rights reserved."
     }
   },
   "termsOfUse": {

@@ -1,0 +1,91 @@
+{
+  "home": {
+    "title": "Random Pick Arena",
+    "tagline": "\"Who will win?\"",
+    "tagline2": "When you can't decide — just tap once.",
+    "description": "When you need to decide,\nlet Random Pick Arena do it for you.",
+    "heroLine1": "Let",
+    "heroLine2Accent": "random",
+    "heroLine2Suffix": " decide today",
+    "appStore": "App Store",
+    "googlePlay": "Google Play",
+    "mainScreenAlt": "Random Pick Arena home screen",
+    "eyebrow": {
+      "available": "Available on iOS · Android",
+      "free": "Free"
+    },
+    "about": {
+      "title": "About Random Pick Arena",
+      "text1": "Just enter the participants and the result is decided automatically — sit back and watch it play out together.",
+      "text2": "You don't influence the result. Just spectate the run and check the outcome at the end."
+    },
+    "features": {
+      "title": "Content",
+      "heading": "Turn decisions into content",
+      "home": {
+        "title": "One tap, decided",
+        "desc": "Who's buying coffee today? What's for lunch? Decide right from the home screen.",
+        "tag1": "Coffee bet",
+        "tag2": "Lunch menu",
+        "tag3": "Penalty",
+        "tag4": "Team bet",
+        "alt": "Home screen"
+      },
+      "roulette": {
+        "title": "Roulette",
+        "desc": "The wheel picks for you",
+        "alt": "Roulette screen"
+      },
+      "horseRace": {
+        "title": "Horse Race",
+        "desc": "Who finishes first? An automatic race that keeps you guessing till the line.",
+        "alt": "Horse race screen"
+      },
+      "racing": {
+        "title": "Racing",
+        "desc": "A straight-track speed run. Half the fun is watching it together.",
+        "alt": "Racing screen"
+      },
+      "soccer": {
+        "title": "Soccer",
+        "desc": "Random teams, automatic match. The game runs itself.",
+        "alt": "Soccer screen"
+      },
+      "comingSoon": "Roulette · Spinner · Multiplayer coming soon"
+    },
+    "useCases": {
+      "title": "Use it in moments like these",
+      "heading": "Pull it out in moments like these",
+      "label1": "Hangouts",
+      "label2": "Teams",
+      "label3": "Everyday",
+      "label4": "Spectate",
+      "case1": "Picking turns or roles at a hangout",
+      "case2": "Splitting into fair, random teams",
+      "case3": "When you need a light, fun decision",
+      "case4": "When you want content to watch together"
+    },
+    "highlights": {
+      "title": "What makes it different",
+      "heading": "Why Random Pick Arena?",
+      "item1": "Auto-runs — no manual input during play",
+      "item2": "Visual playback so you can see the result",
+      "item3": "Just enter a name and start instantly",
+      "item4": "Some content available after watching an ad",
+      "item5": "Purchase to remove ads"
+    },
+    "cta": {
+      "line1": "Let",
+      "line1Accent": "random",
+      "line1Suffix": " decide today",
+      "sub": "Free on iOS and Android"
+    },
+    "footer": {
+      "termsOfUse": "Terms of Use",
+      "privacyPolicy": "Privacy Policy",
+      "contact": "Contact",
+      "tag": "An app that turns decisions into content.",
+      "copyright": "© 2025 Random Pick Arena. All rights reserved."
+    }
+  }
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80" role="img" aria-label="App Store에서 다운로드">
+  <rect width="240" height="80" rx="14" fill="#000"></rect>
+  <g transform="translate(20 20)" fill="#fff">
+    <path d="M28.6 21.5c-.04-4.18 3.41-6.18 3.56-6.27-1.94-2.83-4.96-3.22-6.04-3.27-2.55-.27-5 1.51-6.3 1.51-1.32 0-3.32-1.48-5.46-1.44-2.78.04-5.4 1.66-6.83 4.16-2.93 5.07-.74 12.55 2.1 16.66 1.4 2.01 3.05 4.27 5.2 4.19 2.1-.09 2.89-1.36 5.43-1.36 2.51 0 3.25 1.36 5.45 1.31 2.25-.04 3.68-2.04 5.06-4.06 1.59-2.33 2.24-4.6 2.27-4.71-.05-.02-4.39-1.69-4.43-6.72zM24.5 8.93c1.16-1.42 1.94-3.42 1.72-5.4-1.66.07-3.66 1.1-4.86 2.51-1.07 1.24-2 3.21-1.75 5.16 1.85.14 3.74-.94 4.89-2.27z"></path>
+  </g>
+  <g transform="translate(70 16)" fill="#fff" font-family="-apple-system, BlinkMacSystemFont, &#39;Apple SD Gothic Neo&#39;, &#39;Pretendard&#39;, sans-serif">
+    <text x="0" y="18" font-size="13" font-weight="500" letter-spacing="-0.2">다음에서 다운로드</text>
+    <text x="0" y="44" font-size="22" font-weight="700" letter-spacing="-0.5">App Store</text>
+  </g>
+</svg>

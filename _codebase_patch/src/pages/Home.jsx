@@ -53,9 +53,7 @@ function Home() {
       {/* NAV */}
       <nav style={styles.nav}>
         <div style={styles.navBrand}>
-          <span style={styles.navLogo}>
-            <img src={`${basePath}apple-touch-icon.png`} alt="" style={styles.navLogoImg} />
-          </span>
+          <span style={styles.navLogo}></span>
           <span>{t('home.title')}</span>
         </div>
         <div style={styles.navLinks} className="rpa-nav-links-secondary">
@@ -209,9 +207,7 @@ function Home() {
         <div style={styles.footerInner}>
           <div>
             <div style={styles.footerBrand}>
-              <span style={styles.footerLogo}>
-                <img src={`${basePath}apple-touch-icon.png`} alt="" style={styles.footerLogoImg} />
-              </span>
+              <span style={styles.footerLogo}></span>
               <span>{t('home.title')}</span>
             </div>
             <p style={styles.footerTag}>{t('home.footer.tag')}</p>
@@ -287,13 +283,10 @@ const styles = {
   },
   navBrand: { display:'flex', alignItems:'center', gap: 10, fontWeight: 700, fontSize: 17, color: KR.neutral900 },
   navLogo: {
-    width: 32, height: 32, borderRadius: 9, overflow: 'hidden',
-    display: 'inline-flex', alignItems: 'center', justifyContent: 'center',
-    background: KR.white,
-    boxShadow: `0 4px 10px rgba(31,201,28,0.25), inset 0 0 0 1px rgba(0,0,0,0.06)`,
-    flexShrink: 0,
+    width: 32, height: 32, borderRadius: 9,
+    background: `radial-gradient(120% 100% at 30% 20%, #ccf9b0 0%, ${KR.primary650} 60%, ${KR.primary800} 100%)`,
+    boxShadow: `0 4px 10px rgba(31,201,28,0.25), inset 0 -2px 6px rgba(0,0,0,0.18)`,
   },
-  navLogoImg: { width: '100%', height: '100%', objectFit: 'cover', display: 'block' },
   navLinks: { display:'flex', alignItems:'center', gap: 32, fontSize: 14, fontWeight: 500, color: KR.neutral500 },
   navLink: { color: KR.neutral500, textDecoration:'none' },
   navCta: {
@@ -393,12 +386,9 @@ const styles = {
   footerInner: { maxWidth: 1200, margin:'0 auto', display:'grid', gridTemplateColumns:'1fr auto', gap: 32, alignItems:'start' },
   footerBrand: { display:'flex', alignItems:'center', gap: 10, color:'#fff', fontWeight: 700, fontSize: 16, marginBottom: 12 },
   footerLogo: {
-    width: 28, height: 28, borderRadius: 8, overflow: 'hidden',
-    display: 'inline-flex', alignItems: 'center', justifyContent: 'center',
-    background: KR.white,
-    flexShrink: 0,
+    width: 28, height: 28, borderRadius: 8,
+    background: 'linear-gradient(90deg, #00f5a0 0%, #1bed48 100%)',
   },
-  footerLogoImg: { width: '100%', height: '100%', objectFit: 'cover', display: 'block' },
   footerTag: { color: '#8d94a0', marginBottom: 24, maxWidth: 380, lineHeight: 1.6 },
   footerLinks: { display:'flex', gap: 24, flexWrap:'wrap' },
   footerLink: { color: KR.neutral300, textDecoration:'none' },

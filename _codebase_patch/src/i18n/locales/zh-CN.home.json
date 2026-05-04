@@ -1,0 +1,91 @@
+{
+  "home": {
+    "title": "随机选择竞技场",
+    "tagline": "「谁会被选中?」",
+    "tagline2": "犹豫的时候,一键解决。",
+    "description": "需要做决定时,\n交给随机选择竞技场吧。",
+    "heroLine1": "今天的事,",
+    "heroLine2Accent": "随机",
+    "heroLine2Suffix": "来决定",
+    "appStore": "App Store",
+    "googlePlay": "Google Play",
+    "mainScreenAlt": "随机选择竞技场主页",
+    "eyebrow": {
+      "available": "iOS · Android 现已上线",
+      "free": "免费"
+    },
+    "about": {
+      "title": "关于随机选择竞技场",
+      "text1": "只需输入参与者,结果就会自动揭晓——你只需观看过程,共享乐趣。",
+      "text2": "用户不参与结果,只需观看进程,等待最终揭晓。"
+    },
+    "features": {
+      "title": "多样内容",
+      "heading": "把决定变成内容",
+      "home": {
+        "title": "一键搞定",
+        "desc": "今天谁请咖啡?午餐吃什么?在主页直接决定。",
+        "tag1": "咖啡赌局",
+        "tag2": "午餐菜单",
+        "tag3": "惩罚游戏",
+        "tag4": "团队赌注",
+        "alt": "主页"
+      },
+      "roulette": {
+        "title": "轮盘",
+        "desc": "让轮盘替你选",
+        "alt": "轮盘画面"
+      },
+      "horseRace": {
+        "title": "赛马",
+        "desc": "谁会先到达终点?自动进行的紧张赛事。",
+        "alt": "赛马画面"
+      },
+      "racing": {
+        "title": "赛车",
+        "desc": "直线赛道的速度对决,一起围观更好玩。",
+        "alt": "赛车画面"
+      },
+      "soccer": {
+        "title": "足球",
+        "desc": "队伍随机、结果自动,比赛自己进行。",
+        "alt": "足球画面"
+      },
+      "comingSoon": "轮盘 · 转盘 · 多人玩法即将上线"
+    },
+    "useCases": {
+      "title": "试试这些场景",
+      "heading": "在这些时刻派上用场",
+      "label1": "聚会",
+      "label2": "分组",
+      "label3": "日常",
+      "label4": "围观",
+      "case1": "聚会上决定顺序或角色",
+      "case2": "想公平地随机分组",
+      "case3": "需要一个轻松有趣的决定",
+      "case4": "想要一起围观结果的内容"
+    },
+    "highlights": {
+      "title": "应用特色",
+      "heading": "为什么选它",
+      "item1": "无需操作,自动进行",
+      "item2": "结果一目了然的视觉演出",
+      "item3": "输入名字即可立即开始",
+      "item4": "部分内容观看广告后可用",
+      "item5": "购买可去除广告"
+    },
+    "cta": {
+      "line1": "今天的决定,",
+      "line1Accent": "随机",
+      "line1Suffix": "替你做",
+      "sub": "iOS · Android 免费下载"
+    },
+    "footer": {
+      "termsOfUse": "服务条款",
+      "privacyPolicy": "隐私政策",
+      "contact": "联系",
+      "tag": "把决定变成内容的应用。",
+      "copyright": "© 2025 随机选择竞技场. All rights reserved."
+    }
+  }
+}
