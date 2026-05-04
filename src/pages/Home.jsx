@@ -22,7 +22,7 @@ function Home() {
           </p>
           <div style={styles.storeButtons}>
             <a
-              href="https://apps.apple.com/app/id6744257807"
+              href="https://apps.apple.com/app/id6757327457"
               target="_blank"
               rel="noopener noreferrer"
               style={styles.storeButton}
@@ -30,7 +30,7 @@ function Home() {
               {t('home.appStore')}
             </a>
             <a
-              href="https://play.google.com/store/apps/details?id=com.kkujun.random_pick_arena"
+              href="https://play.google.com/store/apps/details?id=com.limgadeuk.randompickapp"
               target="_blank"
               rel="noopener noreferrer"
               style={styles.storeButton}
