@@ -5,6 +5,8 @@ const basePath = import.meta.env.BASE_URL
 
 const APP_STORE_URL = 'https://apps.apple.com/app/id6757327457'
 const PLAY_STORE_URL = 'https://play.google.com/store/apps/details?id=com.limgadeuk.randompickapp'
+/* 앱인토스 미니앱 공유 링크 (getTossShareLink('intoss://random-pick-arena')). 토스 미설치 시 스토어로 보내 준다 */
+const TOSS_URL = 'https://minion.toss.im/7FkQzSor'
 
 /* 앱(web/src/App.css @theme)과 같은 디자인 토큰 */
 const C = {
@@ -255,6 +257,9 @@ function StoreBadges() {
       </a>
       <a className="rpa-store-badge" href={PLAY_STORE_URL} target="_blank" rel="noopener noreferrer" style={styles.storeBadge}>
         <img src={`${basePath}badges/google-play-ko.svg`} alt="Google Play에서 다운로드" style={styles.storeBadgeImg}/>
+      </a>
+      <a className="rpa-store-badge" href={TOSS_URL} target="_blank" rel="noopener noreferrer" style={styles.storeBadge}>
+        <img src={`${basePath}badges/toss-ko.svg`} alt="토스에서 바로 하기" style={styles.storeBadgeImg}/>
       </a>
     </div>
   )
