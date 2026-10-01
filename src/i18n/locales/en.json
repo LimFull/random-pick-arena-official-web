@@ -9,7 +9,6 @@
     "heroLine2Suffix": " decide today",
     "appStore": "App Store",
     "googlePlay": "Google Play",
-    "mainScreenAlt": "Random Pick Arena home screen",
     "eyebrow": {
       "available": "Available on iOS · Android",
       "free": "Free"
@@ -20,38 +19,40 @@
       "text2": "You don't influence the result. Just spectate the run and check the outcome at the end."
     },
     "features": {
-      "title": "Content",
-      "heading": "Turn decisions into content",
-      "home": {
-        "title": "One tap, decided",
-        "desc": "Who's buying coffee today? What's for lunch? Decide right from the home screen.",
-        "tag1": "Coffee bet",
-        "tag2": "Lunch menu",
-        "tag3": "Penalty",
-        "tag4": "Team bet",
-        "alt": "Home screen"
+      "title": "Features",
+      "heading": "Add names and play right away",
+      "pick": {
+        "title": "Solo or team — just pick",
+        "desc": "Choose Solo or Team on the home screen and tap a game card. Can't decide? We'll pick the game at random too.",
+        "tag1": "4 solo games",
+        "tag2": "3 team games",
+        "tag3": "Random pick",
+        "alt": "Random Pick Arena home screen"
       },
-      "roulette": {
-        "title": "Roulette",
-        "desc": "The wheel picks for you",
-        "alt": "Roulette screen"
+      "ready": {
+        "title": "Add players once, set your own rules",
+        "desc": "Add today's players once and every game uses them. Write a rule like \"Last place buys drinks\" and it shows up on the result screen.",
+        "tag1": "Today's players",
+        "tag2": "Round rule",
+        "tag3": "Random teams",
+        "alt": "Game setup screen"
       },
-      "horseRace": {
-        "title": "Horse Race",
-        "desc": "Who finishes first? An automatic race that keeps you guessing till the line.",
-        "alt": "Horse race screen"
+      "result": {
+        "title": "1st and last at a glance",
+        "desc": "When it ends, everyone gets a rank from 1st to last. Play again right away or share the result with friends.",
+        "tag1": "Full ranking",
+        "tag2": "Play again",
+        "tag3": "Share result",
+        "alt": "Result screen"
       },
-      "racing": {
-        "title": "Racing",
-        "desc": "A straight-track speed run. Half the fun is watching it together.",
-        "alt": "Racing screen"
-      },
-      "soccer": {
-        "title": "Soccer",
-        "desc": "Random teams, automatic match. The game runs itself.",
-        "alt": "Soccer screen"
-      },
-      "comingSoon": "Roulette · Spinner · Multiplayer coming soon"
+      "multi": {
+        "title": "Same match, on every phone",
+        "desc": "Create a room and send the link — friends watch the same match on their own phones. Run it back in the same room anytime.",
+        "tag1": "Create a room",
+        "tag2": "Send the link",
+        "tag3": "Watch together",
+        "alt": "Multiplayer screen"
+      }
     },
     "useCases": {
       "title": "Use it in moments like these",
@@ -71,8 +72,9 @@
       "item1": "Auto-runs — no manual input during play",
       "item2": "Visual playback so you can see the result",
       "item3": "Just enter a name and start instantly",
-      "item4": "Some content available after watching an ad",
-      "item5": "Purchase to remove ads"
+      "item4": "The first round of every game is free",
+      "item5": "Keep playing with an ad, or unlock once for good",
+      "item6": "Multiplayer to watch together on each phone"
     },
     "cta": {
       "line1": "Let",
@@ -86,6 +88,49 @@
       "contact": "Contact",
       "tag": "An app that turns decisions into content.",
       "copyright": "© 2025 Random Pick Arena. All rights reserved."
+    },
+    "games": {
+      "title": "Games",
+      "heading": "Which game decides it?",
+      "comingSoon": "More games on the way",
+      "solo": {
+        "label": "Solo",
+        "caption": "The game decides the ranking. You decide the rules."
+      },
+      "team": {
+        "label": "Team",
+        "caption": "Teams are split at random. The game settles it."
+      },
+      "items": {
+        "horserace": {
+          "name": "Horse Race",
+          "tagline": "Horses carrying your names sprint to the finish"
+        },
+        "carrace": {
+          "name": "Car Race",
+          "tagline": "Finish order is the ranking. Pick your lap count"
+        },
+        "lastchicken": {
+          "name": "Last Chicken",
+          "tagline": "Run. Survive. Be the last chicken standing."
+        },
+        "roulette": {
+          "name": "Roulette",
+          "tagline": "The fastest way to pick just one person"
+        },
+        "soccer": {
+          "name": "Soccer",
+          "tagline": "The team that scores more before time runs out wins"
+        },
+        "basketball": {
+          "name": "Basketball",
+          "tagline": "A full-court battle that even crowns an MVP"
+        },
+        "tennis": {
+          "name": "Tennis",
+          "tagline": "Win games in rallies across the net"
+        }
+      }
     }
   },
   "termsOfUse": {
