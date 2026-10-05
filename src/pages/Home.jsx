@@ -29,7 +29,7 @@ const FONT_PIXEL = "'Silkscreen',ui-monospace,monospace"
 
 /* 앱의 홈 화면 순서와 같다 */
 const GAMES = {
-  solo: ['horserace', 'carrace', 'lastchicken', 'roulette'],
+  solo: ['horserace', 'carrace', 'lastchicken', 'survivor', 'topbattle', 'roulette'],
   team: ['soccer', 'basketball', 'tennis'],
 }
 
@@ -128,7 +128,7 @@ function Home() {
             <h2 style={styles.sectionTitle}>{t('home.features.heading')}</h2>
           </div>
 
-          {['pick', 'ready', 'result', 'multi'].map((k, i) => (
+          {['pick', 'ready', 'result', 'seal'].map((k, i) => (
             <FeatureRow
               key={k}
               num={i + 1}

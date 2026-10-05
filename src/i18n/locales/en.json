@@ -24,7 +24,7 @@
       "pick": {
         "title": "Solo or team — just pick",
         "desc": "Choose Solo or Team on the home screen and tap a game card. Can't decide? We'll pick the game at random too.",
-        "tag1": "4 solo games",
+        "tag1": "6 solo games",
         "tag2": "3 team games",
         "tag3": "Random pick",
         "alt": "Random Pick Arena home screen"
@@ -45,13 +45,13 @@
         "tag3": "Share result",
         "alt": "Result screen"
       },
-      "multi": {
-        "title": "Same match, on every phone",
-        "desc": "Create a room and send the link — friends watch the same match on their own phones. Run it back in the same room anytime.",
-        "tag1": "Create a room",
-        "tag2": "Send the link",
-        "tag3": "Watch together",
-        "alt": "Multiplayer screen"
+      "seal": {
+        "title": "Seal the result, open it together",
+        "desc": "Seal the result ahead of time and send a notice to your group chat. At the opening time, the match becomes a result video. With the seal number, anyone can replay the same draw in the app.",
+        "tag1": "Notice",
+        "tag2": "Result video",
+        "tag3": "Check seal",
+        "alt": "Sealed draw screen"
       }
     },
     "useCases": {
@@ -74,7 +74,7 @@
       "item3": "Just enter a name and start instantly",
       "item4": "The first round of every game is free",
       "item5": "Keep playing with an ad, or unlock once for good",
-      "item6": "Multiplayer to watch together on each phone"
+      "item6": "Sealed draws keep the result hidden until you open it together"
     },
     "cta": {
       "line1": "Let",
@@ -113,6 +113,14 @@
         "lastchicken": {
           "name": "Last Chicken",
           "tagline": "Run. Survive. Be the last chicken standing."
+        },
+        "survivor": {
+          "name": "Bang Bang Survival",
+          "tagline": "Drop. Loot. Fight. Only one walks away."
+        },
+        "topbattle": {
+          "name": "Top Battle",
+          "tagline": "Launch. Clash. Keep spinning. The last top standing wins."
         },
         "roulette": {
           "name": "Roulette",
