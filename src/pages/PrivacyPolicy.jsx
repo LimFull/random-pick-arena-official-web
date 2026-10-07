@@ -40,6 +40,10 @@ function PrivacyPolicy() {
             <strong>{t('privacyPolicy.article2.item2Title')}</strong><br />
             {t('privacyPolicy.article2.item2Content')}
           </li>
+          <li style={{ marginBottom: '1rem' }}>
+            <strong>{t('privacyPolicy.article2.item3Title')}</strong><br />
+            {t('privacyPolicy.article2.item3Content')}
+          </li>
         </ol>
       </section>
 
@@ -50,6 +54,7 @@ function PrivacyPolicy() {
           <li style={{ marginBottom: '1rem' }}><strong>{t('privacyPolicy.article3.item1')}</strong></li>
           <li style={{ marginBottom: '1rem' }}><strong>{t('privacyPolicy.article3.item2')}</strong></li>
           <li style={{ marginBottom: '1rem' }}><strong>{t('privacyPolicy.article3.item3')}</strong></li>
+          <li style={{ marginBottom: '1rem' }}><strong>{t('privacyPolicy.article3.item4')}</strong></li>
         </ol>
       </section>
 
@@ -77,6 +82,11 @@ function PrivacyPolicy() {
       <section style={{ marginBottom: '2rem' }}>
         <h2 style={{ fontSize: '1.5rem', fontWeight: 'bold', marginBottom: '1rem', marginTop: '2rem' }}>{t('privacyPolicy.article6.title')}</h2>
         <p style={{ marginBottom: '1rem' }}>{t('privacyPolicy.article6.content1')}</p>
+        <ul style={{ paddingLeft: '1.5rem', marginBottom: '1rem' }}>
+          <li style={{ marginBottom: '0.5rem' }}>{t('privacyPolicy.article6.item1')}</li>
+          <li style={{ marginBottom: '0.5rem' }}>{t('privacyPolicy.article6.item2')}</li>
+          <li style={{ marginBottom: '0.5rem' }}>{t('privacyPolicy.article6.item3')}</li>
+        </ul>
         <p style={{ marginBottom: '1rem' }}>{t('privacyPolicy.article6.content2')}</p>
       </section>
 
@@ -107,6 +117,7 @@ function PrivacyPolicy() {
           <li>{t('privacyPolicy.article8.item2')}</li>
           <li>{t('privacyPolicy.article8.item3')}</li>
         </ul>
+        <p style={{ marginBottom: '1rem' }}>{t('privacyPolicy.article8.ads')}</p>
         <p style={{ marginBottom: '1rem' }}>{t('privacyPolicy.article8.optOut')}</p>
         <ul style={{ paddingLeft: '1.5rem' }}>
           <li>{t('privacyPolicy.article8.android')}</li>
@@ -126,6 +137,7 @@ function PrivacyPolicy() {
         <p style={{ marginBottom: '1rem', marginTop: '1rem' }}>{t('privacyPolicy.article9.method')}</p>
         <p style={{ marginBottom: '1rem' }}>{t('privacyPolicy.article9.correction')}</p>
         <p style={{ marginBottom: '1rem' }}>{t('privacyPolicy.article9.minor')}</p>
+        <p style={{ marginBottom: '1rem' }}>{t('privacyPolicy.article9.eea')}</p>
       </section>
 
       <section style={{ marginBottom: '2rem' }}>

@@ -349,14 +349,17 @@
       "item1Title": "Automatically Collected Items",
       "item1Content": "Device identifier (advertising ID), device information (model, OS version), app version, service usage records, access logs",
       "item2Title": "Items Collected Upon Customer Inquiry",
-      "item2Content": "Email address, inquiry contents"
+      "item2Content": "Email address, inquiry contents",
+      "item3Title": "Items Entered When Using Sealed Draws or Multiplayer",
+      "item3Content": "Participant names (nicknames) and game settings entered by the user. They are stored on our server to seal results fairly and let everyone view them together."
     },
     "article3": {
       "title": "Article 3 (Processing and Retention Period of Personal Information)",
       "content": "The Company processes and retains personal information within the personal information retention and use period according to laws or the personal information retention and use period agreed upon when collecting personal information from data subjects.",
       "item1": "Service usage records: Until end of service use (upon app deletion)",
       "item2": "Customer inquiry records: 3 years after inquiry processing completion (Act on Consumer Protection in Electronic Commerce)",
-      "item3": "Access logs: 3 months (Protection of Communications Secrets Act)"
+      "item3": "Access logs: 3 months (Protection of Communications Secrets Act)",
+      "item4": "Sealed draw records: automatically deleted 30 days after creation / Multiplayer rooms: automatically deleted 24 hours after creation"
     },
     "article4": {
       "title": "Article 4 (Procedures and Methods for Destroying Personal Information)",
@@ -369,12 +372,15 @@
     "article5": {
       "title": "Article 5 (Provision of Personal Information to Third Parties)",
       "content1": "The Company processes personal information of data subjects only within the scope specified in Article 1 (Purpose of Processing Personal Information) and provides personal information to third parties only in cases falling under Articles 17 and 18 of the Personal Information Protection Act, such as consent from data subjects or special provisions of law.",
-      "content2": "Currently, the Company does not provide personal information of data subjects to third parties."
+      "content2": "The Company does not sell personal information or provide it to third parties. However, the processors listed in Article 6 process information to the extent necessary for the entrusted work."
     },
     "article6": {
       "title": "Article 6 (Entrustment of Personal Information Processing)",
-      "content1": "The Company does not currently entrust personal information processing to outside parties.",
-      "content2": "If entrustment work occurs in the future, the entrusted company and the contents of the entrustment work will be disclosed in the privacy policy."
+      "content1": "The Company entrusts the following processing of personal information to provide the service smoothly.",
+      "item1": "Amazon Web Services, Inc.: Server operation and storage of sealed draw and multiplayer data (Seoul region, Republic of Korea)",
+      "item2": "Google LLC (AdMob): Serving in-app ads and measuring ad performance (advertising ID and device information; may be processed outside Korea, including the United States)",
+      "item3": "AB180 Inc. (Airbridge): Analysis of app installs and acquisition channels (advertising ID and device information)",
+      "content2": "If the processors or the entrusted work change, we will notify you through this privacy policy."
     },
     "article7": {
       "title": "Article 7 (Measures to Ensure the Safety of Personal Information)",
@@ -392,6 +398,7 @@
       "item1": "Device identifier (advertising ID)",
       "item2": "Device information (model, operating system version)",
       "item3": "App usage log",
+      "ads": "The app uses the advertising ID to show Google AdMob ads. If you do not allow app tracking on iOS, or if you are a user in Europe and do not consent to personalized ads, you will only see non-personalized ads.",
       "optOut": "Users can reject or reset advertising ID collection in their device settings.",
       "android": "Android: Settings > Google > Ads > Delete advertising ID",
       "ios": "iOS: Settings > Privacy & Security > Tracking > Disable Allow Apps to Request to Track"
@@ -405,7 +412,8 @@
       "item4": "Request to stop processing",
       "method": "The above rights may be exercised by email to the Company, and the Company will take action without delay.",
       "correction": "If a data subject requests correction or deletion of errors in personal information, the Company will not use or provide such personal information until the correction or deletion is completed.",
-      "minor": "For children under 14, legal representatives may request viewing, correction/deletion, and suspension of processing of the child's personal information."
+      "minor": "For children under 14, legal representatives may request viewing, correction/deletion, and suspension of processing of the child's personal information.",
+      "eea": "Users in the European Economic Area (EEA), the UK and Switzerland: Information is processed for personalized ads only if you consent in the consent form shown when you first launch the app. In addition to the rights above, you may withdraw your consent, object to processing, request data portability, and lodge a complaint with the data protection authority in your country. You can withdraw your consent by contacting the email address in Article 10."
     },
     "article10": {
       "title": "Article 10 (Personal Information Protection Officer)",
@@ -429,8 +437,8 @@
       "content2": "However, in case of significant changes to the rights of data subjects, we will notify at least 30 days in advance."
     },
     "effectiveDate": {
-      "announcement": "Announcement Date: January 3, 2025",
-      "effective": "Effective Date: January 3, 2025"
+      "announcement": "Announcement Date: October 7, 2026",
+      "effective": "Effective Date: October 14, 2026"
     }
   }
 }
