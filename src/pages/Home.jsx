@@ -29,8 +29,8 @@ const FONT_PIXEL = "'Silkscreen',ui-monospace,monospace"
 
 /* 앱의 홈 화면 순서와 같다 */
 const GAMES = {
-  solo: ['horserace', 'carrace', 'lastchicken', 'survivor', 'topbattle', 'roulette'],
-  team: ['soccer', 'basketball', 'tennis'],
+  solo: ['horserace', 'carrace', 'lastchicken', 'survivor', 'topbattle', 'alleyking', 'hotpotato', 'marblerace', 'bomber', 'roulette'],
+  team: ['soccer', 'basketball', 'tennis', 'steal'],
 }
 
 function Home() {
@@ -134,7 +134,7 @@ function Home() {
               num={i + 1}
               title={t(`home.features.${k}.title`)}
               desc={t(`home.features.${k}.desc`)}
-              tags={[1, 2, 3].map((n) => t(`home.features.${k}.tag${n}`))}
+              tags={[1, 2, 3].map((n) => t(`home.features.${k}.tag${n}`, { solo: GAMES.solo.length, team: GAMES.team.length }))}
               img={`${basePath}screens/${k === 'pick' ? 'home' : k}.png`}
               alt={t(`home.features.${k}.alt`)}
               reverse={i % 2 === 1}

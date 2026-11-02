@@ -1,12 +1,12 @@
 {
   "home": {
-    "title": "Random Pick Arena",
-    "tagline": "\"Who will win?\"",
+    "title": "Loser Buys",
+    "tagline": "\"Who's buying?\"",
     "tagline2": "When you can't decide — just tap once.",
-    "description": "When you need to decide,\nlet Random Pick Arena do it for you.",
-    "heroLine1": "Let",
-    "heroLine2Accent": "random",
-    "heroLine2Suffix": " decide today",
+    "description": "Who pays for coffee or dinner?\nSettle it with one round of Loser Buys.",
+    "heroLine1": "Who's buying?",
+    "heroLine2Accent": "One round",
+    "heroLine2Suffix": " decides.",
     "appStore": "App Store",
     "googlePlay": "Google Play",
     "eyebrow": {
@@ -14,7 +14,7 @@
       "free": "Free"
     },
     "about": {
-      "title": "About Random Pick Arena",
+      "title": "About Loser Buys",
       "text1": "Just enter the participants and the result is decided automatically — sit back and watch it play out together.",
       "text2": "You don't influence the result. Just spectate the run and check the outcome at the end."
     },
@@ -24,10 +24,10 @@
       "pick": {
         "title": "Solo or team — just pick",
         "desc": "Choose Solo or Team on the home screen and tap a game card. Can't decide? We'll pick the game at random too.",
-        "tag1": "6 solo games",
-        "tag2": "3 team games",
+        "tag1": "{{solo}} solo games",
+        "tag2": "{{team}} team games",
         "tag3": "Random pick",
-        "alt": "Random Pick Arena home screen"
+        "alt": "Loser Buys home screen"
       },
       "ready": {
         "title": "Add players once, set your own rules",
@@ -68,26 +68,26 @@
     },
     "highlights": {
       "title": "What makes it different",
-      "heading": "Why Random Pick Arena?",
+      "heading": "Why Loser Buys?",
       "item1": "Auto-runs — no manual input during play",
       "item2": "Visual playback so you can see the result",
       "item3": "Just enter a name and start instantly",
-      "item4": "The first round of every game is free",
-      "item5": "Keep playing with an ad, or unlock once for good",
+      "item4": "Roulette is always free",
+      "item5": "Other games: watch an ad, or unlock once for good",
       "item6": "Sealed draws keep the result hidden until you open it together"
     },
     "cta": {
-      "line1": "Let",
-      "line1Accent": "random",
-      "line1Suffix": " decide today",
+      "line1": "Play one round.",
+      "line1Accent": "Loser",
+      "line1Suffix": " buys.",
       "sub": "Free on iOS and Android"
     },
     "footer": {
       "termsOfUse": "Terms of Use",
       "privacyPolicy": "Privacy Policy",
       "contact": "Contact",
-      "tag": "An app that turns decisions into content.",
-      "copyright": "© 2025 Random Pick Arena. All rights reserved."
+      "tag": "Settle coffee runs, dinner bills and dares with one round of play.",
+      "copyright": "© 2025 Loser Buys. All rights reserved."
     },
     "games": {
       "title": "Games",
@@ -137,6 +137,26 @@
         "tennis": {
           "name": "Tennis",
           "tagline": "Win games in rallies across the net"
+        },
+        "alleyking": {
+          "name": "Alley King",
+          "tagline": "Punch, throw, hang on. The last one standing is the Alley King."
+        },
+        "hotpotato": {
+          "name": "Hot Potato",
+          "tagline": "Pass it, dodge it, don't hold it. The last one never blown up wins."
+        },
+        "marblerace": {
+          "name": "Marble Race",
+          "tagline": "Grab a seat. Roll to the line."
+        },
+        "bomber": {
+          "name": "Water Balloon Battle",
+          "tagline": "Trap 'em. Pop 'em. Stay standing."
+        },
+        "steal": {
+          "name": "Treasure Heist",
+          "tagline": "Sneak in, grab the treasure, run for home. Tag the carrier to win it back. A team race that crowns an MVP."
         }
       }
     }
@@ -332,7 +352,7 @@
   },
   "privacyPolicy": {
     "title": "Privacy Policy",
-    "intro": "Random Pick Arena (hereinafter referred to as \"the Company\") complies with the Personal Information Protection Act and related laws to protect the freedom and rights of data subjects, and lawfully processes and safely manages personal information. In accordance with Article 30 of the Personal Information Protection Act, we establish and disclose the following privacy policy to guide data subjects on the procedures and standards for processing and protecting personal information, and to promptly and smoothly handle related grievances.",
+    "intro": "Loser Buys (hereinafter referred to as \"the Company\") complies with the Personal Information Protection Act and related laws to protect the freedom and rights of data subjects, and lawfully processes and safely manages personal information. In accordance with Article 30 of the Personal Information Protection Act, we establish and disclose the following privacy policy to guide data subjects on the procedures and standards for processing and protecting personal information, and to promptly and smoothly handle related grievances.",
     "article1": {
       "title": "Article 1 (Purpose of Processing Personal Information)",
       "content": "The Company processes personal information for the following purposes. Personal information being processed will not be used for purposes other than the following, and if the purpose of use changes, necessary measures such as obtaining separate consent will be implemented in accordance with Article 18 of the Personal Information Protection Act.",
